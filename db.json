@@ -1,0 +1,93 @@
+{
+  "products":[
+    {
+      "id": 1,
+      "name": "Organic Apples",
+      "description": "Our organic apples are grown without the use of any synthetic pesticides or fertilizers.",
+      "price": 2.99,
+      "image": "https://i.imgur.com/example-organic-apples.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Organic Eggs",
+      "description": "Our organic eggs are laid by chickens that are raised on a diet of organic feed and have access to the outdoors.",
+      "price": 3.99,
+      "image": "https://i.imgur.com/example-organic-eggs.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Organic Honey",
+      "description": "Our organic honey is produced by bees that pollinate our organic crops.",
+      "price": 5.99,
+      "image": "https://i.imgur.com/example-organic-honey.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Freshly Baked Bread",
+      "description": "Our freshly baked bread is made with organic ingredients and is baked to perfection.",
+      "price": 3.50,
+      "image": "https://i.imgur.com/example-freshly-baked-bread.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Locally Grown Tomatoes",
+      "description": "Our locally grown tomatoes are picked at the peak of ripeness and are full of flavor.",
+      "price": 1.99,
+      "image": "https://i.imgur.com/example-locally-grown-tomatoes.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Farm Fresh Milk",
+      "description": "Our farm fresh milk is unpasteurized and is full of nutrients.",
+      "price": 4.50,
+      "image": "https://i.imgur.com/example-farm-fresh-milk.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Free Range Chicken",
+      "description": "Our free range chicken is raised without antibiotics or hormones.",
+      "price": 5.99,
+      "image": "https://i.imgur.com/example-free-range-chicken.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Grass Fed Beef",
+      "description": "Our grass fed beef is raised on a diet of grass and clover.",
+      "price": 7.99,
+      "image": "https://i.imgur.com/example-grass-fed-beef.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Pasture Raised Pork",
+      "description": "Our pasture raised pork is raised outdoors and has access to fresh air and sunshine.",
+      "price": 6.99,
+      "image": "https://i.imgur.com/example-pasture-raised-pork.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Wild Caught Fish",
+      "description": "Our wild caught fish is caught in the wild and is not farmed.",
+      "price": 8.99,
+      "image": "https://i.imgur.com/example-wild-caught-fish.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Organic Coffee Beans",
+      "description": "Our organic coffee beans are grown without the use of any synthetic pesticides or fertilizers.",
+      "price": 7.99,
+      "image": "https://i.imgur.com/example-organic-coffee-beans.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Loose Leaf Tea",
+      "description": "Our loose leaf tea is made from high quality tea leaves and is free of artificial flavorings.",
+      "price": 4.99,
+      "image": "https://i.imgur.com/example-loose-leaf-tea.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Fresh Herbs",
+      "description": "Our fresh herbs are grown on"
+    }
+]
+}
