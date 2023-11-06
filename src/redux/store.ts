@@ -1,10 +1,12 @@
 "use client"
 import { configureStore } from '@reduxjs/toolkit'
 import productsSlicer from './slicers/data'
+import singleSlicer from './slicers/single'
 
 export const store = configureStore({
   reducer: {
-    products: productsSlicer
+    products: productsSlicer,
+    single: singleSlicer
   },
 })
 

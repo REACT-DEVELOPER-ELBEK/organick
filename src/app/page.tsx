@@ -14,8 +14,11 @@ export default function Home() {
     dispatch(fetchProducts());
   }, []);
 
+  function toSingle(id:number){
+    
+  }
+
   const productsData = useSelector((state: any) => state.products.data);
-  console.log(productsData);
 
   interface mape {
     id: number;
@@ -47,10 +50,10 @@ export default function Home() {
               <div className="product__items">
                 {productsData?.slice(0, 8).map((item: any) => {
                   return (
-                    <Link href={`/product-view/${item.id}`} className="product__item" key={item.id}>
+                    <Link onClick={()=>toSingle(item.id)} href={`/product-view/${item.id}`} className="product__item" key={item.id}>
                       <h4>{item.category.name}</h4>
-                      <img src={item.images[2]} alt="" />
-                      <h1>{item.title}</h1>
+                      <img src={item.image} alt="" />
+                      <h1>{item.title.slice(0, 30)}</h1>
                       <div className="product__info">
                         <p>$ {item.price}</p>
                         <svg
