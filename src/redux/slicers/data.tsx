@@ -4,9 +4,8 @@ import axios from "axios";
 
 export const fetchProducts = createAsyncThunk("products/data", async () => {
   try {
-    let response = await axios("https://jsonplaceholder.typicode.com/users");
-    let result = await response.data;
-    return result;
+    let response = await axios("https://api.escuelajs.co/api/v1/products");
+    return response.data
   } catch (error) {
     console.log(error);
   }
@@ -18,14 +17,14 @@ interface initialType {
   error: boolean;
 }
 
-const initialState: initialType = {
+export const initialState: initialType = {
   loading: false,
   data: [],
   error: false,
 };
 
 const productsSlicer = createSlice({
-  name: "products/data",
+  name: "productsData",
   initialState,
   reducers: {},
   extraReducers: (builder) => {

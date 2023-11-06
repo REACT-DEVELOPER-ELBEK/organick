@@ -2,92 +2,75 @@
   "products":[
     {
       "id": 1,
-      "name": "Organic Apples",
-      "description": "Our organic apples are grown without the use of any synthetic pesticides or fertilizers.",
-      "price": 2.99,
-      "image": "https://i.imgur.com/example-organic-apples.jpg"
+      "name": "Organic Wheat",
+      "image": "https://example.com/images/products/organic-wheat-white-background-discount.png",
+      "image_source": "https://unsplash.com/photos/9y_oB01a3k4",
+      "price": 1.00,
+      "currency": "USD",
+      "discount": 10,
+      "description": "Organic wheat is a type of wheat that has been grown without the use of synthetic pesticides or fertilizers. It is a healthier and more sustainable alternative to conventional wheat.",
+      "category": "Grains",
+      "subcategory": "Organic"
     },
     {
       "id": 2,
-      "name": "Organic Eggs",
-      "description": "Our organic eggs are laid by chickens that are raised on a diet of organic feed and have access to the outdoors.",
-      "price": 3.99,
-      "image": "https://i.imgur.com/example-organic-eggs.jpg"
+      "name": "Organic Corn",
+      "image": "https://example.com/images/products/organic-corn-white-background-discount.png",
+      "image_source": "https://unsplash.com/photos/l075zY0yQwc",
+      "price": 1.25,
+      "currency": "USD",
+      "discount": 15,
+      "description": "Organic corn is a type of corn that has been grown without the use of synthetic pesticides or fertilizers. It is a healthier and more sustainable alternative to conventional corn.",
+      "category": "Grains",
+      "subcategory": "Organic"
     },
     {
       "id": 3,
-      "name": "Organic Honey",
-      "description": "Our organic honey is produced by bees that pollinate our organic crops.",
-      "price": 5.99,
-      "image": "https://i.imgur.com/example-organic-honey.jpg"
+      "name": "Organic Soybeans",
+      "image": "https://example.com/images/products/organic-soybeans-white-background-discount.png",
+      "image_source": "https://unsplash.com/photos/96x085Yv60s",
+      "price": 1.50,
+      "currency": "USD",
+      "discount": 20,
+      "description": "Organic soybeans are a type of soybean that has been grown without the use of synthetic pesticides or fertilizers. They are a healthier and more sustainable alternative to conventional soybeans.",
+      "category": "Legumes",
+      "subcategory": "Organic"
     },
     {
       "id": 4,
-      "name": "Freshly Baked Bread",
-      "description": "Our freshly baked bread is made with organic ingredients and is baked to perfection.",
-      "price": 3.50,
-      "image": "https://i.imgur.com/example-freshly-baked-bread.jpg"
+      "name": "Organic Tomatoes",
+      "image": "https://example.com/images/products/organic-tomatoes-white-background-discount.png",
+      "image_source": "https://unsplash.com/photos/F8sL2jZ2o08",
+      "price": 2.00,
+      "currency": "USD",
+      "discount": 25,
+      "description": "Organic tomatoes are a type of tomato that has been grown without the use of synthetic pesticides or fertilizers. They are a healthier and more sustainable alternative to conventional tomatoes.",
+      "category": "Vegetables",
+      "subcategory": "Organic"
     },
     {
       "id": 5,
-      "name": "Locally Grown Tomatoes",
-      "description": "Our locally grown tomatoes are picked at the peak of ripeness and are full of flavor.",
-      "price": 1.99,
-      "image": "https://i.imgur.com/example-locally-grown-tomatoes.jpg"
+      "name": "Organic Carrots",
+      "image": "https://example.com/images/products/organic-carrots-white-background-discount.png",
+      "image_source": "https://unsplash.com/photos/iZ2Yq0g2p7A",
+      "price": 2.50,
+      "currency": "USD",
+      "discount": 30,
+      "description": "Organic carrots are a type of carrot that has been grown without the use of synthetic pesticides or fertilizers. They are a healthier and more sustainable alternative to conventional carrots.",
+      "category": "Vegetables",
+      "subcategory": "Organic"
     },
     {
       "id": 6,
-      "name": "Farm Fresh Milk",
-      "description": "Our farm fresh milk is unpasteurized and is full of nutrients.",
-      "price": 4.50,
-      "image": "https://i.imgur.com/example-farm-fresh-milk.jpg"
-    },
-    {
-      "id": 7,
-      "name": "Free Range Chicken",
-      "description": "Our free range chicken is raised without antibiotics or hormones.",
-      "price": 5.99,
-      "image": "https://i.imgur.com/example-free-range-chicken.jpg"
-    },
-    {
-      "id": 8,
-      "name": "Grass Fed Beef",
-      "description": "Our grass fed beef is raised on a diet of grass and clover.",
-      "price": 7.99,
-      "image": "https://i.imgur.com/example-grass-fed-beef.jpg"
-    },
-    {
-      "id": 9,
-      "name": "Pasture Raised Pork",
-      "description": "Our pasture raised pork is raised outdoors and has access to fresh air and sunshine.",
-      "price": 6.99,
-      "image": "https://i.imgur.com/example-pasture-raised-pork.jpg"
-    },
-    {
-      "id": 10,
-      "name": "Wild Caught Fish",
-      "description": "Our wild caught fish is caught in the wild and is not farmed.",
-      "price": 8.99,
-      "image": "https://i.imgur.com/example-wild-caught-fish.jpg"
-    },
-    {
-      "id": 11,
-      "name": "Organic Coffee Beans",
-      "description": "Our organic coffee beans are grown without the use of any synthetic pesticides or fertilizers.",
-      "price": 7.99,
-      "image": "https://i.imgur.com/example-organic-coffee-beans.jpg"
-    },
-    {
-      "id": 12,
-      "name": "Loose Leaf Tea",
-      "description": "Our loose leaf tea is made from high quality tea leaves and is free of artificial flavorings.",
-      "price": 4.99,
-      "image": "https://i.imgur.com/example-loose-leaf-tea.jpg"
-    },
-    {
-      "id": 13,
-      "name": "Fresh Herbs",
-      "description": "Our fresh herbs are grown on"
+      "name": "Organic Apples",
+      "image": "https://example.com/images/products/organic-apples-white-background-discount.png",
+      "image_source": "https://unsplash.com/photos/vM8uH5jQk_4",
+      "price": 1.75,
+      "currency": "USD",
+      "discount": 35,
+      "description": "Organic apples are a type of apple that has been grown without the use of synthetic pesticides or fertilizers. They are a healthier and more sustainable alternative to conventional apples.",
+      "category": "Fruits",
+      "subcategory": "Organic"
     }
-]
+  ]
 }
